@@ -1,0 +1,1 @@
+C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\condition_control_flow_lesson\target\debug\condition_control_flow_lesson.exe: C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\condition_control_flow_lesson\src\main.rs
