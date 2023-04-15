@@ -1,0 +1,1 @@
+C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\function_expression\target\debug\function_Expression.exe: C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\function_expression\src\main.rs
