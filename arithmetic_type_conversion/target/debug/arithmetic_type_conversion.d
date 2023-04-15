@@ -1,0 +1,1 @@
+C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\arithmetic_type_conversion\target\debug\arithmetic_type_conversion.exe: C:\Users\XPS\OneDrive\Documents\My_lessons\MyRust_Lesson\arithmetic_type_conversion\src\main.rs
